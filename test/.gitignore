@@ -78,7 +78,8 @@ ehthumbs_vista.db
 .classpath
 .project
 
-mvnw
 mvnw.cmd
-test/.mvn/wrapper
+mvnw
 pom.xml
+maven-wrapper.jar
+maven-wrapper.properties
